@@ -1,0 +1,9 @@
+[
+  {"id":"5430c5f9","timestamp":"2026-09-04T08:16:10.748967100Z","from":"USD","to":"USD","amount":300000.00,"rate":1.000000,"convertedAmount":300000.00},
+  {"id":"0b41f221","timestamp":"2026-09-04T08:14:30.272749700Z","from":"KRW","to":"INR","amount":300000.00,"rate":0.069683,"convertedAmount":20904.76},
+  {"id":"9209215c","timestamp":"2026-09-04T08:14:27.467644Z","from":"KRW","to":"INR","amount":300000.00,"rate":0.069683,"convertedAmount":20904.76},
+  {"id":"68b3dd10","timestamp":"2026-09-04T08:14:15.630742Z","from":"KRW","to":"INR","amount":100.00,"rate":0.069683,"convertedAmount":6.97},
+  {"id":"f0574d0c","timestamp":"2026-09-04T08:03:00.044944300Z","from":"USD","to":"INR","amount":100.00,"rate":94.540498,"convertedAmount":9454.05},
+  {"id":"620c8a92","timestamp":"2026-09-04T08:03:00.033295300Z","from":"USD","to":"INR","amount":100.00,"rate":94.540498,"convertedAmount":9454.05},
+  {"id":"92268d0c","timestamp":"2026-08-25T08:23:25.448442200Z","from":"USD","to":"INR","amount":100.00,"rate":95.798861,"convertedAmount":9579.89}
+]
